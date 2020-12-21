@@ -1010,6 +1010,13 @@ input, select, textarea {
 				margin: 0 auto;
 				width: auto;
 			}
+		.circular--square {
+			border-top-left-radius: 50% 50%;
+			border-top-right-radius: 50% 50%;
+			border-bottom-right-radius: 50% 50%;
+			border-bottom-left-radius: 50% 50%;
+		}
+		
 
 /* List */
 
