@@ -59,7 +59,7 @@ video {
 	top: 11px;
 	right: 10px;
 	left: 10px;
-	height: calc(60% - 15px);
+	height: 450px;
 	display: block;
 	align-content: center;
 }
